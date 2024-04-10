@@ -10,7 +10,9 @@ We set out to disprove the below assumptions by PHP developers we know:
 
 **Why go open source?**
 
-To provide a tiny option. Recent upstream attacks on open source software have highlighted the need to keep code bases small enough to be grokked entirely by a single human brain.
+To show that a tiny option is possble.
+
+Recent upstream attacks on open source software have highlighted the need to keep code bases small enough to be grokked entirely by a single human brain.
 
 Yet, the ecosystem around tapping into LLMs and generative AI models is heavily skewed toward widely shared python libraries. This opens an attack vector as millions of code bases become vulnerable to upstream attaacks on dependencies.
 
