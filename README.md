@@ -1,6 +1,6 @@
-# A tiny module for tight integration of LLM and generative AI capabilities into your PHP project
+`php-ai-starter` is tiny module for tight integration of LLM and generative AI capabilities into your PHP project.
 
-`php-ai-starter` sets out to prove the below assertions:
+We set out to prove the below assertions:
 
 1. You don't need to learn python to integrate Large Language Models (LLM) and generative AI deeply into your projects
    
