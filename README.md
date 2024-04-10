@@ -2,9 +2,11 @@
 
 We set out to disprove the below assumptions by PHP developers we know:
 
-1. that we must switch to `python` to integrate Large Language Models (LLM) and generative AI deeply into our PHP projects
+1. that we must switch to `python` to integrate LLMs and generative AI deeply into our PHP projects
    
-2. that we can't enjoy the benefits of LLMs and gnerative AI without importing thousands of lines of OPC (other people's code) in the form of upstream libraries (or entire frameworks)
+2. that we can't enjoy the benefits of generative AI without thousands of lines of OPC (other people's code) in the form of upstream libraries (or entire frameworks)
+
+---
 
 **Some inspiration for going open source**
 
